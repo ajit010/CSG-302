@@ -10,6 +10,8 @@ LAB 2 - https://www.cloudskillsboost.google/paths/20/course_templates/41/labs/52
 (Deploying Apps to Google Cloud)
 
 
+==========================================================================================================================================================
+
 Study Material Courses for Unit 1 and 2 --
 
 Unit 1 - https://www.cloudskillsboost.google/paths/20/course_templates/95
@@ -24,7 +26,7 @@ CA syllabus (Unit 1-2)  (24-28 feb)
 
 Go through these courses on cloudskillboost and also through pdf files in this github repo for preparing for exam ...
 
-===========================================================================================================================
+==========================================================================================================================================================
 
 Mid-term Syllabus (Unit 1,2 and 3) 
 
@@ -46,5 +48,25 @@ LAB 4 - https://www.cloudskillsboost.google/course_sessions/21622055/labs/450919
         (Deploying Google Kubernetes Engine)
 
 
-(You will find labs 3 qnd 4 in the Course 1 mentioned above, if the lab link doesn't work, go via course link)
-LAB 5 - 
+(You will find labs 3 and 4 in the Course 1 mentioned above, if the lab link doesn't work, go via course link)
+
+
+
+Course 2 link - https://www.cloudskillsboost.google/course_templates/34
+(Architecting with Google Kubernetes Engine: Workloads)
+
+
+LAB 5 - https://www.cloudskillsboost.google/course_templates/34/labs/518710
+       (Creating Google Kubernetes Engine Deployments)
+
+LAB 6 - https://www.cloudskillsboost.google/course_templates/34/labs/518719
+       (Configuring Google Kubernetes Engine (GKE) Networking)
+
+LAB 7 - https://www.cloudskillsboost.google/course_templates/34/labs/518728
+       (Configuring Persistent Storage for Google Kubernetes Engine)
+
+
+(You will find labs 5,6 and 7 in the Course 2 mentioned above, if the lab link doesn't work, go via course link)
+
+ 
+
