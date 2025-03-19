@@ -62,8 +62,13 @@ Course 2 link - https://www.cloudskillsboost.google/course_templates/34
 (Architecting with Google Kubernetes Engine: Workloads)
 
 
-LAB 5 - https://www.cloudskillsboost.google/course_templates/34/labs/518710
-       (Creating Google Kubernetes Engine Deployments)
+LAB 5 - part1:   https://www.cloudskillsboost.google/course_templates/34/labs/518710
+                 (Creating Google Kubernetes Engine Deployments)
+
+
+        part2:   https://www.cloudskillsboost.google/focuses/19125?parent=catalog
+                 (Deploying Jobs on Google Kubernetes Engine)
+
 
 LAB 6 - https://www.cloudskillsboost.google/course_templates/34/labs/518719
        (Configuring Google Kubernetes Engine (GKE) Networking)
