@@ -69,6 +69,9 @@ LAB 5 - part1:   https://www.cloudskillsboost.google/course_templates/34/labs/51
         part2:   https://www.cloudskillsboost.google/focuses/19125?parent=catalog
                  (Deploying Jobs on Google Kubernetes Engine)
 
+        part3:   https://www.cloudskillsboost.google/focuses/19121?parent=catalog
+                 (Configuring Pod Autoscaling and NodePools)
+
 
 LAB 6 - https://www.cloudskillsboost.google/course_templates/34/labs/518719
        (Configuring Google Kubernetes Engine (GKE) Networking)
