@@ -3,76 +3,50 @@ LAB 1 - https://www.cloudskillsboost.google/paths/20/course_templates/41/labs/52
 
 (Building a DevOps Pipeline using GCP services)
 
+
 LAB 2 - https://www.cloudskillsboost.google/paths/20/course_templates/41/labs/520409
 
 (Deploying Apps to Google Cloud)
 
 
-==========================================================================================================================================================
-
-
-
-
-
-Week 5-8  :--
-
-
-Study Material Courses for Unit 3 -
-
-Course 1 link - https://www.cloudskillsboost.google/course_templates/32
-(Architecting with Google Kubernetes Engine: Foundations)
-
-
-
 LAB 3 - https://www.cloudskillsboost.google/course_sessions/21622055/labs/450896
-        (Working with Cloud Build)
 
-LAB 4 -  part1:  https://www.cloudskillsboost.google/course_sessions/21622055/labs/450919
-        (Deploying Google Kubernetes Engine)
-
-         part2:  https://www.cloudskillsboost.google/focuses/19124?parent=catalog
-         (Deploying Google Kubernetes Engine Clusters from Cloud Shell)
-
-         part3:  https://www.cloudskillsboost.google/focuses/19126?parent=catalog
-         (Upgrading Google Kubernetes Engine Clusters)
+(Working with Cloud Build)
 
 
-(You will find labs 3 and 4 in the Course 1 mentioned above, if the lab link doesn't work, go via course link)
+LAB 4 -  
+
+part1:  https://www.cloudskillsboost.google/course_sessions/21622055/labs/450919
+(Deploying Google Kubernetes Engine)
+
+part2:  https://www.cloudskillsboost.google/focuses/19124?parent=catalog
+(Deploying Google Kubernetes Engine Clusters from Cloud Shell)
+
+part3:  https://www.cloudskillsboost.google/focuses/19126?parent=catalog
+(Upgrading Google Kubernetes Engine Clusters)
 
 
 
-Course 2 link - https://www.cloudskillsboost.google/course_templates/34
-(Architecting with Google Kubernetes Engine: Workloads)
+LAB 5 - 
 
+part1:   https://www.cloudskillsboost.google/course_templates/34/labs/518710
+(Creating Google Kubernetes Engine Deployments)
 
-LAB 5 - part1:   https://www.cloudskillsboost.google/course_templates/34/labs/518710
-                 (Creating Google Kubernetes Engine Deployments)
+part2:   https://www.cloudskillsboost.google/focuses/19125?parent=catalog
+(Deploying Jobs on Google Kubernetes Engine)
 
-
-        part2:   https://www.cloudskillsboost.google/focuses/19125?parent=catalog
-                 (Deploying Jobs on Google Kubernetes Engine)
-
-        part3:   https://www.cloudskillsboost.google/focuses/19121?parent=catalog
-                 (Configuring Pod Autoscaling and NodePools)
+part3:   https://www.cloudskillsboost.google/focuses/19121?parent=catalog
+(Configuring Pod Autoscaling and NodePools)
 
 
 LAB 6 - https://www.cloudskillsboost.google/course_templates/34/labs/518719
-       (Configuring Google Kubernetes Engine (GKE) Networking)
+
+(Configuring Google Kubernetes Engine (GKE) Networking)
+
 
 LAB 7 - https://www.cloudskillsboost.google/course_templates/34/labs/518728
-       (Configuring Persistent Storage for Google Kubernetes Engine)
 
-
-(You will find labs 5,6 and 7 in the Course 2 mentioned above, if the lab link doesn't work, go via course link)
-
-
-
-===============================================================================================================================================================
-
-
-
-
-Week (9-12) :--
+(Configuring Persistent Storage for Google Kubernetes Engine)
 
 
 
